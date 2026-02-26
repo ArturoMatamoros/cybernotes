@@ -1,0 +1,25 @@
+This books covers the basics and a simple explanation of the major [[Linux]] related tools for cyber sec. Since most of the concepts and chapters here are really basilar I read through the chapters and summarize briefly. 
+
+- Chapter 1 : Linux basics 
+	- here we discuss the file system, find and grep, creation of files and directories
+- Chapter 2 : Text manipulation 
+	- In this chapter we talk about text manipulation with basics like: 
+		- cat, nl and grep
+		- less and more (and why less is more)
+		- head and tail with the number of lines
+- Chapter 3:  Network basics 
+	- In this chapter we talk about the basics of networking 
+		- `ifconfig` 
+		- how to modify both the IP address, subnet and mac
+	-  asking the IP from the DHCP
+		- `sudo dhclient eth0`
+	- DNS 
+		- Looking up for the DNS of websites  
+			-  `dig ns nome_sito.it`
+			- `dig mx nome_sito.com`
+		- Local DNS and inserting a secondary DNS
+			- Change the local DNS 
+				- `sudo nvim /etc/hosts` 
+				- inserting the IP + tab + website
+			- The secondary DNS is the one we default to when the first one fails
+				-  `cat >> nameserver 8.8.8.8` 
