@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automate the boring stuff with python.md",
+                "file": "input/Automate the boring stuff with python.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +193,17 @@
   },
   "active": "bbf98a1d71424f98",
   "lastOpenFiles": [
-    "Linux basics for hackers.md",
-    "spoof_arp.md",
+    "Journal/26-02-2026.md",
+    "output/spoof_arp.md",
+    "input/Automate the boring stuff with python.md",
+    "input/Linux basics for hackers.md",
     "pictures/Screenshot 2026-02-26 124357.png",
     "PEN testing.md",
-    "Automate the boring stuff with python.md",
     "pictures/Screenshot 2026-02-26 120811 1.png",
     "pictures",
     "spoof_arp.txt",
     "Screenshot 2026-02-26 120811.png",
     "python.md",
-    "Journal/26-02-2026.md",
     "Template/Daily note.md",
     "Journal/27-02-2026.md",
     "Journal",
