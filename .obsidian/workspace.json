@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "input/Automate the boring stuff with python.md",
+                "file": "Journal/28-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automate the boring stuff with python"
+              "title": "28-02-2026"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c9ebca2dfa8de28",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +195,11 @@
   },
   "active": "bbf98a1d71424f98",
   "lastOpenFiles": [
+    "Journal/27-02-2026.md",
+    "Journal/28-02-2026.md",
+    "input/Automate the boring stuff with python.md",
     "Journal/26-02-2026.md",
     "output/spoof_arp.md",
-    "input/Automate the boring stuff with python.md",
     "input/Linux basics for hackers.md",
     "pictures/Screenshot 2026-02-26 124357.png",
     "PEN testing.md",
@@ -205,7 +209,6 @@
     "Screenshot 2026-02-26 120811.png",
     "python.md",
     "Template/Daily note.md",
-    "Journal/27-02-2026.md",
     "Journal",
     "Template"
   ]
