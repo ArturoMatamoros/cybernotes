@@ -23,3 +23,11 @@ This books covers the basics and a simple explanation of the major [[Linux]] rel
 				- inserting the IP + tab + website
 			- The secondary DNS is the one we default to when the first one fails
 				-  `cat >> nameserver 8.8.8.8` 
+- Chapter 4: adding and removing software 
+	- how does APT work and what are the main ways to use it 
+		- adding ubuntu repository inside the apt libraries
+			- this is an extra step that guarantees me to find non security related software
+	- using the grafical interface of synaptic (I would much rather do it with command line)
+	- using git clone to install any program from git hub
+		- discovering cameradar, a software used to spy on russian soldiers by hacking their webcams during the war in ukraine
+- Chapter 5: 

@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c9ebca2dfa8de28",
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,20 +193,37 @@
   },
   "active": "bbf98a1d71424f98",
   "lastOpenFiles": [
-    "Journal/27-02-2026.md",
-    "Journal/28-02-2026.md",
-    "input/Automate the boring stuff with python.md",
-    "Journal/26-02-2026.md",
-    "output/spoof_arp.md",
+    "Print server.md",
+    "Windows OS.md",
+    "Adding printers to the pool.md",
     "input/Linux basics for hackers.md",
+    "Journal/28-02-2026.md",
+    "Applying home profile and home dir to the users.md",
+    "Roaming profiles and Home directory.md",
+    "Sharing configuration for profiles.md",
+    "File server and sharing.md",
+    "NFTS permissions and subfolders.md",
+    "Creating the sharing with ABE.md",
+    "Group Policies (GPO).md",
+    "GPO's for a domain.md",
+    "GPO's for a group.md",
+    "Active directory.md",
+    "Populating security groups.md",
+    "Creating Active Directory users.md",
+    "Setting up Organization Units (OU).md",
+    "Global security clients.md",
+    "Configuring drivers and printers.md",
+    "Initial Windows server and client settings.md",
+    "Network, firewall and name configuration WIN_server.md",
+    "First basic configuration of a WIN_client.md",
+    "how to clone virtual machines.md",
+    "Installing and promoting to domain controller.md",
+    "Setting up client in the domain.md",
     "pictures/Screenshot 2026-02-26 124357.png",
-    "PEN testing.md",
     "pictures/Screenshot 2026-02-26 120811 1.png",
     "pictures",
     "spoof_arp.txt",
     "Screenshot 2026-02-26 120811.png",
-    "python.md",
-    "Template/Daily note.md",
     "Journal",
     "Template"
   ]
