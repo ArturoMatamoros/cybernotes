@@ -5,3 +5,4 @@
 - PHASE 4: [[File server and sharing]]
 - PHASE 5: [[Roaming profiles and Home directory]] 
 - PHASE 6: [[Print server]] 
+- PHASE 7: [[Backup server]]

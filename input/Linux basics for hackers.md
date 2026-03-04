@@ -27,7 +27,21 @@ This books covers the basics and a simple explanation of the major [[Linux]] rel
 	- how does APT work and what are the main ways to use it 
 		- adding ubuntu repository inside the apt libraries
 			- this is an extra step that guarantees me to find non security related software
-	- using the grafical interface of synaptic (I would much rather do it with command line)
+	- using the graphical interface of synaptic (I would much rather do it with command line)
 	- using git clone to install any program from git hub
-		- discovering cameradar, a software used to spy on russian soldiers by hacking their webcams during the war in ukraine
-- Chapter 5: 
+		- discovering cameradar, a software used to spy on Russian soldiers by hacking their webcams during the war in Ukraine
+- Chapter 5: Permissions 
+	- chown and chgrp to change the user and group ownership
+	- chmod to change the permissions 
+		- here the book explains how the bit mode of assigning permissions work
+	- unmask 
+		- the unmask is a way for us to be able to change the default permission given to a new file or directory for the users. 
+		- it is stored in the users .profile 
+			- here we can set a different than the default 022 
+	- special permissions 
+		- suid 
+		- guid 
+		- sticky bit 
+	- Using find to look at the programs with suid 
+		- these often use etc/shadow and many hackers try to get access to the program first
+- Chapter 6: [[Process management]] 

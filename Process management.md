@@ -1,0 +1,40 @@
+[[Linux basics for hackers]]
+- why study process management ? 
+		- when looking for vulnerabilities hackers need to look for processes, like antivirus or firewalls and be able to kill them. We could also need scripts that scan the computer to look for the processes to manage them better. 
+- `ps aux`
+	- it gives you all the info given about processes
+	- the main columns that we have to look for are : 
+		- USER
+		- PID 
+		- %CPU
+		- %MEM
+		- COMMAND
+	- we can filter by process name 
+		- if we use [[Metasploit]] and we want to look out for that specific process
+			- `ps aux | grep msfconsole
+	- using top to look for the process that consumes the most 
+	- Managing processes 
+		- changing priority with **nice**
+			- nice and renice are two commands that let you prioritize processes
+			- nice works only when starting a program
+			- renice is used to change the priority of an existing process
+		- killing processes 
+			- the command kill is the one dedicated to kill the processes
+			- it receives hundreds of flags
+				- singhup 1, stops it and restrart it with same PID
+				- sigint 2, interrupt, not a complete kill
+				- sigquit 3, core dump, saves the info in wd
+				- sigterm 15, termination signal, it is by default. 
+				- sigkill 9, absolute kill signal. 
+			- if we don't know the pid we can use killall and just it's name
+				- with the flag ofc 
+		- running the process in the background and foreground 
+			- to start a process in the background we simply can use
+				- sudo mausepad newscript &
+				- bg pid
+			- to put it in the foreground we use sudo fg newscript 
+		- scheduling processes 
+			- we use  `at`  to schedule processes 
+			- we first have to install it 
+			- `sudo at 7:20am at> /root/myscanningscript`
+	
