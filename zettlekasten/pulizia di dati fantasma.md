@@ -1,0 +1,1 @@
+La pulizia dei [[Dati fantasma]] è una pratica fondamentale per mantenere in buono stato un [[Database relazionali]] ed evitare attacchi quali [[Attacco tramite assenza di vincoli]]. 

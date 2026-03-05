@@ -1,0 +1,1 @@
+Legge in GDPR. Questo parla del primo uso in un sistema. Qui si applica il principio di minimizzazione di dati. Quando si usa un determinato sistema noi andiamo ad usare la minore quantità di informazioni necessarie, il resto non deve essere obbligatorio. Il [[privacy e sicurezza]] ha sempre una funzione di base quando noi parliamo. 

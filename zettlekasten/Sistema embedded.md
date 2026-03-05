@@ -1,0 +1,1 @@
+mini [[Computer]] che svolgano compiti singolari e uni singolari. Questi sistemi sono infatti con una unica funzione atomica. 

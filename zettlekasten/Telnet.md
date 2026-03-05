@@ -1,0 +1,1 @@
+Telnet è un protocollo che ci permette di comunicare tra dispositivi ma ha il problema di essere del tutto accessibile a chiunque si metta in mezzo, attraverso [[Man in the middle]]. Oggi usiamo quello che è [[SSH]]. 

@@ -1,0 +1,1 @@
+Questa è una [[Vulnerabilità database]] che consiste nel usare le limitazioni di INT all'interno delle tabelle, come vediamo in [[Query uso tabelle]], e, bloccando [[Chiavi nei database]]. Grazie a questo noi possiamo andare a sovrascrivere gli id e ci permette accedere a dati e collegamenti presenti nel ID precedente. 

@@ -1,0 +1,1 @@
+Un dropper è un tipo di [[Cavalli di troia]] e ha come obiettivo di scaricare sempre più elementi dannosi nel sistema. Questo è veramente piccolo e infatti non viene rilevato, continuerà a crescere scaricando il necessario da internet. 

@@ -1,0 +1,16 @@
+Per ridurre la possibilità di attacchi causati dalle [[Vulnerabilità database]] noi possiamo prendere queste precauzioni:
+- autenticazioni distinta tra utenti
+- Policy per [[password]] forti
+	- evitare password semplici e banali 
+- Policy n. di autenticazioni al minuto
+	- evitare attacchi a forza bruta
+- Ruoli e gruppi di utenti. 
+	- per gestire i permessi, come troviamo in [[Database management system]]
+- [[Principio del "minimo privilegio"]] 
+	- assegnare a privilegi, non il contrario. 
+- Controllo regolare dei [[Permessi Linux]]/accessi 
+	- utile per [[Insider threat]] 
+	- serve a controllare che gli utenti possano o no accedere ad un permesso
+		- se non usato va a rimuovere l'utente
+- verifica utenti compromessi 
+	- controllare le azioni, ripristinare stato database, ripristino utente (sia utente che password) 

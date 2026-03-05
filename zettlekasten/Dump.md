@@ -1,0 +1,1 @@
+Dump è la lettura di tutti i dati presenti in un [[Database]] e stamparli a testo. Questo può essere forzato da parte di hacker. 

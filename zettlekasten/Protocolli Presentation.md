@@ -1,0 +1,1 @@
+Questi sono semplicemente necessari per la [[Cifratura e Crittografia]] all'interno di [[Protocolli ISO-OSI]] 

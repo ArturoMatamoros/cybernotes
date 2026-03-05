@@ -1,0 +1,1 @@
+La firma digitale è un'informazione che viene aggiunta ad una [[Mail]] in modo tale da verificare la identità e garantire una certa sicurezza. Questo può prevenire [[Phishing]] e [[Furto di identità]]. 

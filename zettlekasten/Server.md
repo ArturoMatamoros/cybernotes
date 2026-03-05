@@ -1,0 +1,2 @@
+Un **server** è un **[[Computer]] o sistema** che fornisce **servizi, risorse o dati** ad altri dispositivi, chiamati **client**, tramite una **[[Rete]]**.  
+Il server elabora richieste provenienti dai client e risponde fornendo ciò che è stato richiesto (ad esempio: pagine web, file, email, database, ecc.).

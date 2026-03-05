@@ -1,0 +1,21 @@
+Ci sono alcuni attacchi che sono di natura di [[Network]] 
+- [[Protocollo Data link]]
+	- Mac table attacks
+	- VLAN attacks
+		- VLAN hopping 
+			- l'attaccante si collega e si considera uno switch 
+			- qui l'attaccante attiva un attacco di trunk
+			- quindi uno spoofing con DTP 
+			- ora può accedere in tutte le VLAN 
+	- DHCP attacks 
+		- starvation e spesso spoofing
+		- lo starvation fa richiesta di tutti gli indirizzi 
+		- dopo spesso andiamo a fare lo spoofing e quindi di fornire false info
+		- qui si trovano spesso casi di man in the middle 
+	- ARP attacks
+	- address spoofing attack 
+	- stp attacks 
+		- andiamo a considerare noi stessi il root bridge 
+		- parliamo quindi di spoofing ancora e di man in the middle 
+		- per sistemare usiamo bpdu guard 
+	- 

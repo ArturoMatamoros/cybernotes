@@ -1,0 +1,21 @@
+[[Query]], [[Transazioni]]
+- CREA IL DATABASE E LE TABELLE [[Query uso tabelle]]
+- Ora andiamo a creare la transizione bancaria
+	- START TRANSACTION;
+	- UPDATE conti
+	- set saldo=saldo - 200
+	- WHERE id=1; 
+- ora andiamo a registrare il movimento (bank simulation)
+	- INSERT INTO movimenti (conto_id, importo) 
+	- VALUES (1, -200);
+- Ora salviamo il savepoint, questo serve a capire la nostra posizione
+	- SAVEPOINT dopo_mario; 
+- Ora andiamo ad inserire sul conto di luigi il denaro
+	- UPDATE conti
+	- SET saldo=saldo+200
+	- WHERE id=2; 
+
+	- INSERT INTO movimenti (conto_id, importo)
+	- VALUES(2, 200);
+- Immaginiamo ci sia un errore
+	- ROLLBACK TO dopo_mario;

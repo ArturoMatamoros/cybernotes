@@ -1,0 +1,1 @@
+Così come I messaggi anche la [[Mail]] può essere [[Cifratura e Crittografia]]. Questo permette di avere una maggiore sicurezza contro pratiche come [[Man in the middle]]. 

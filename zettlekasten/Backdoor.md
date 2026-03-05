@@ -1,0 +1,2 @@
+Un backdoor è un termine ampio per indicare un programma capace di permettere l'accesso remoto persistente e non autorizzato al computer. L'aggressore usa spesso [[Cavalli di troia]], [[Worm]] o [[Virus informatici]] e aggirano i meccanismi  di autenticazione. 
+Può essere anche un bug. 

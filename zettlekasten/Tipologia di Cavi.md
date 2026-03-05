@@ -1,0 +1,27 @@
+Ci sono tre tipologia di cavi fondamentali che utilizziamo insieme agli [[Switch]]. Teniamo sempre presente [[Termini fondamentali Data-Link]]. Quando parliamo di Questo teniamo presente le categorie 568 che è uno standard e possono essere A e B (Europa).  Questi sono: 
+- Dritti
+	- In questo caso si usa 568 B dato che siamo in Europa
+	- Questi trasmettono i segnali che collegano dispositivi diversi tra di loro
+	- Questi hanno 8 cavi e devono seguire i colori: 
+		- 2 per trasmissione con due sensi di corrente diversi 
+			- Bianco-arancio
+			- arancio
+		- 2 canali di ricezioni 
+			- Bianco-verde
+			- verde
+		- Questi non sono operativi ma vuoi power over ethernet
+			- Blue 
+			- Bianco-blue 
+			- Bianco-marrone
+			- marrone
+- Cross
+	- Qui dobbiamo fare la stessa sequenza di prima 
+		- Questa permette la trasmissione (lo switch non è un end device)
+	- Questi si usano per trasmettere tra dispositivi uguali. 
+	- Qui abbiamo un 568-A e dall'altra parte 568-B
+- Roll-over (console)
+	- 568 B da un lato
+	- 568 B specchiato (rollato)
+	- Questi sono detti cavi console
+	- Non è un cavo di rete 
+		- Serve per accedere a dispositivi senza rete che dobbiamo configurare

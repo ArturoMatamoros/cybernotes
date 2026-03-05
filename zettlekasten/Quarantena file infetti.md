@@ -1,0 +1,1 @@
+La quarantena non è altro che un isolamento di un processo o file da parte di un [[Antivirus]] fino a quando questo non trovi un modo di rimuovere l'infezione. Questo è ottimo per isolare i [[Virus informatici]]. 

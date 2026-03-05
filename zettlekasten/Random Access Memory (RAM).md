@@ -1,0 +1,1 @@
+La RAM è la memoria temporaria che permette di elaborare i dati in tempo reale. Questa è una parte hardware fondamentale per capire [[Come funzionano i computer]]. Quando questa è lenta significa che noi andiamo a prendere lo storage di HDD/SSD.

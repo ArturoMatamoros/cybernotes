@@ -1,0 +1,18 @@
+Gli [[End e intermediate devices]] invece possono essere divisi in:
+- Layer 1 
+	- Repeater (aumenta il segnale e lo rende più forte) 
+		- Questi funzionano in modalità half duplex 
+			- o la informazione entra od esce ma non contemporaneamente. 
+	- [[HUB (multi port repeater)]]
+- Layer 2
+	- Bridge
+		- Il bridge collega un insieme di HUB 
+		- Quando ha un segnale con memoria e mappa la provenienza del segnale
+		- Questo fa si che il bridge vada a isolare gli HUB
+		- Qui abbiamo un dominio di broadcast, infatti questo vale sempre
+			- per ogni dominio di broadcast vale una rete
+	- [[Switch]]
+- Layer 3
+	- Switch layer 3
+		- Nato per la necessità di interagire con il [[Router gateway]], per cambiare rete.
+		- Questo funziona come i router ma ha lo svantaggio di avere meno funzioni 

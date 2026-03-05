@@ -1,0 +1,15 @@
+Questi in [[Indirizzo IPV6]] sono delle "funzioni" che possiamo fare
+- Unicast 
+	- è un ip che identifica solo ed unicamente un dispositivo
+		- Questo può essere di vari tipi: 
+			- Global (come rete pubblica)
+			- Link-local
+				- questo non può avere contatto esterno 
+			- Loopback 
+			- unspecified address 
+			- unique local 
+			- embedded IPV4 (non usare) 
+- Multicast
+	- indirizzo IP speciale che permette di inviare dati a un gruppo di dispositivi contemporaneamente, invece di inviare copie separate a ciascuno
+- Anycast
+	- questo è un qualsiasi indirizzo unicast che può essere assegnato a più dispositivi.

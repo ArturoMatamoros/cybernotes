@@ -1,0 +1,1 @@
+Questa è una [[Vulnerabilità database]] legata alle [[Transazioni]] e accade quando un insieme di transizioni concorrenti leggono o scrivono i dati nel momento stesso senza un isolamento adeguato. Questo può provocare la corruzione o la creazione di [[Dati fantasma]] 

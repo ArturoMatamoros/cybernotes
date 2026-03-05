@@ -1,0 +1,11 @@
+Questo è un [[Tipi di Intermediate devices]] di Layer 1. 
+- Un repeater che collega più computer
+- Sempre con half duplex
+- Con questo si applicano le regole nella parte logica del [[Protocollo Data link]]
+	- Le regole erano "uno alla volta" 
+- Questo sistema è anche non deterministico 
+	- Questo dice "zitti tutti" 
+	- Si crea un timer, il primo ad arrivare a 0 parla.
+	- Questo algoritmo si chiama Carrier Sense Multiple Access/Collision Detection (CSMA/CD)  
+- Una cosa che possiamo notare che un dominio di [[Broadcast]] coincide con quello di collisione. 
+- Il problema diventa sempre maggiore con l'aumentare di reti all'interno 

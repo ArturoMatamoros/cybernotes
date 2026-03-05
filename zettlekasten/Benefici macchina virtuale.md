@@ -1,0 +1,2 @@
+Uno dei maggiori vantaggi di [[Macchina virtuale]]: 
+- In caso di migrazione di computer, noi possiamo spostare il sistema intero in varie parti del mondo senza necessariamente spostare i computer stessi. 

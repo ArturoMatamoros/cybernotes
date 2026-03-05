@@ -1,0 +1,2 @@
+Il **livello di sessione** del [[Protocolli ISO-OSI]] gestisce la creazione, il mantenimento e la terminazione delle _sessioni_ tra applicazioni che comunicano.  
+Serve a sincronizzare lo scambio di dati e garantire che una comunicazione lunga o interrotta possa essere ripresa.

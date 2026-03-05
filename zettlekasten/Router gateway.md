@@ -1,0 +1,1 @@
+Un router gateway è il [[Router]], quindi layer 3 [[Protocolli Network]], che segue i [[Routing protocols]] che collega il nostro server ad uno diverso. 

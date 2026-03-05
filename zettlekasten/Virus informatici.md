@@ -1,0 +1,2 @@
+[[Malware]] 
+I virus sono dei software nascosti all'interno di programmi apparentemente innocui. Questo è in grado di riprodurre se stesso e di inserirsi in altri programmi o file che poi vengono poi distribuito. Bisogna stare attenti con [[Antivirus]] 

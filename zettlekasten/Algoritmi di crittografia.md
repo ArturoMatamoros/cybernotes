@@ -1,0 +1,14 @@
+Gli algoritmi di [[Crittografia]] noi andiamo ad usare due tipi di criptazioni. 
+- Simmetrici 
+	- Per capirli immaginiamo di avere una sorgente e una destinazione
+	- Abbiamo una chiave che entrambi contengono
+	- In una [[Virtual Private Network (VPN)]] noi usiamo questo.
+		- Problema, la chiave come si ottiene ? 
+- Asimmetrici 
+	- Questi hanno dei protocolli di Hifi Helmann.
+	- Ha il compito di andare ad inviare le chiavi
+	- Molto più sicuri ma lenti dato che inviamo una criptazione con tutto quello di cui abbiamo bisogno per andare a trovare le chiavi noi stessi. 
+	- Abbiamo una Kpubblica e una Kprivata. 
+		- sorgente e destinazioni hanno entrambi 
+		- La Kpriv è fondamentale e non devono essere consegnate. 
+	- Utilizziamo [[Algoritmo di HASH]] 

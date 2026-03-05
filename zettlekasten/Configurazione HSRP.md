@@ -1,0 +1,20 @@
+[[Protocollo HSRP]]
+- andiamo ad inserire due router, due switch e dei computer
+	- colleghiamo ogni switch al loro router 
+	- e colleghiamo i due switch tra di loro
+	- Colleghiamo inoltre gli switch con un cavo cross 
+		- questo servirà alla comunicazione 
+	- inseriamo anche un ISP router 
+		- lo colleghiamo inserendo wic2t
+		- Utilizza serial DCE cable
+	- Andiamo a inserire server e switch collegato al router
+		- andiamo a [[Configurazione Router]], [[Configurazione routing dinamico]]
+	- ora possiamo partire, quando tutto funziona
+- Andiamo nel routing 2 
+	- interface fa0/0 
+	- standby 1 ip 50.0.0.250 (ip virtuale)
+	- standby 1 priority 150 
+	- standby 1 preempt
+- Andiamo nel router 1
+	- standby 1 ip 50.0.0.250
+	- do show standby 

@@ -12,6 +12,5 @@
 **Learned:**
 -  much clearer use of tar, gzip and at
 - creating recursive scheduling inside a script 
-
 **links:** 
 -  [[Linux]], [[bash]],  [[Process management]]

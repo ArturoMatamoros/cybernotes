@@ -1,0 +1,1 @@
+Trivial file transport protocol. Questo è un [[Server]] che ci permette di scambiare piccoli file. Non è del tutto sicuro e tendiamo a non utilizzarlo. 
