@@ -1,0 +1,37 @@
+- This course is about Docker but not about Kubernetes.  
+- Docker is a container technology; a tool for creating and managing containers.
+- Advantages of containers ? 
+	- they are faster and slimmer, they only have the strict necessary for the program to run. Unlike Virtual machines that have a whole operative system slowing it down. 
+	- there are also different development and production environments
+	- we also need it for compatibilities purposes 
+	- we don't want to uninstall and re-install local dependencies
+
+- All the modern operative systems are able to run Docker and we will use windows.
+- For this course we will use Docker, node.js, mongo database and AWS. 
+- Docker has four primary functions 
+	- docker engine 
+	- docker Desktop 
+	- docker hub
+	- docker compose
+- how to create a simple container? 
+	![[Screenshot 2026-03-04 121406.png]]
+	-  This is what we have inside Docker file
+		- docker build .
+	- we first look for the images 
+		- docker images -a 
+	- start the container 
+		- docker run -p 3000:3000 (and the image id) 
+	- let's check if it works and it's name / id 
+		- docker ps -a 
+	- to stop a docker 
+		- docker stop name/id 
+- Container basics 
+	- images and containers 
+	- data and volumes
+	- containers and networking 
+- "real life"
+	- multi-container projects
+	- using Docker-compose
+	- utility containers 
+	- deploying docker containers
+- Kubernetes

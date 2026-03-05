@@ -45,3 +45,17 @@ This books covers the basics and a simple explanation of the major [[Linux]] rel
 	- Using find to look at the programs with suid 
 		- these often use etc/shadow and many hackers try to get access to the program first
 - Chapter 6: [[Process management]] 
+- Chapter 9: Compressing and archiving 
+	- we archive files with tar
+		- archiving just groups together files, it even add on their dimension
+	- we want to compress te file 
+		- compress (slowest but it also saves the most memory)
+		- gzip
+			- sudo gzip file to compress
+			- gunzip file do decompress 
+		- bzip2 (compress the least but it's fast)
+	- bit by bit copying 
+		- this is done by using the dd command 
+			- this is usefull for hackers and forensics to do complete copies
+			- it's slow
+			- dd if=inputfile of=outputfile

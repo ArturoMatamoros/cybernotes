@@ -17,10 +17,6 @@
     {
       "folder": "Template",
       "template": "Template/Daily note.md"
-    },
-    {
-      "folder": "",
-      "template": ""
     }
   ],
   "enable_file_templates": false,

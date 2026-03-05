@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d6cc57b3470581",
+        "id": "32633365ad3398f8",
         "type": "tabs",
         "children": [
           {
-            "id": "19e75b380e72497f",
+            "id": "3649c439843c7492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/04-03-2026.md",
+                "file": "The BUILD method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-03-2026"
+              "title": "The BUILD method"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The BUILD method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The BUILD method"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The BUILD method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The BUILD method"
             }
           },
           {
@@ -177,51 +179,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1e28e0de100d37c",
+  "active": "3649c439843c7492",
   "lastOpenFiles": [
-    "Senza nome",
-    "pictures/Screenshot 2026-03-04 121406.png",
     "Journal/04-03-2026.md",
-    "input/Automate the boring stuff with python.md",
-    "python.md",
     "Journal/03-03-2026.md",
-    "Process management.md",
     "input/Linux basics for hackers.md",
-    "Untitled.canvas",
-    "Configuring drivers and printers.md",
-    "Applying home profile and home dir to the users.md",
-    "NTFS subfolders and security.md",
-    "Roaming profiles and Home directory.md",
-    "Windows OS.md",
-    "Print server.md",
-    "Security, time and priorities on printers.md",
-    "Backup server.md",
-    "Active directory.md",
-    "Populating security groups.md",
-    "Creating Active Directory users.md",
-    "Global security clients.md",
-    "File server and sharing.md",
-    "Setting up Organization Units (OU).md",
-    "Setting up client in the domain.md",
-    "Initial Windows server and client settings.md",
-    "Network, firewall and name configuration WIN_server.md",
-    "Installing and promoting to domain controller.md",
-    "First basic configuration of a WIN_client.md",
+    "zettlekasten/Installing and promoting to domain controller.md",
+    "output/Bash backup script.md",
+    "inbox/Process management.md",
+    "The BUILD method.md",
+    "zettlekasten/Active directory.md",
+    "zettlekasten/Adding printers to the pool.md",
+    "zettlekasten/Configuring drivers and printers.md",
+    "inbox/Containers.md",
+    "zettlekasten/Print server.md",
+    "zettlekasten/Network, firewall and name configuration WIN_server.md",
+    "zettlekasten/NFTS permissions and subfolders.md",
+    "zettlekasten/Initial Windows server and client settings.md",
+    "zettlekasten/GPO's for a domain.md",
+    "zettlekasten/Creating the sharing with ABE.md",
+    "zettlekasten/Creating Active Directory users.md",
+    "Template/Zettelkasten Note.md",
+    "Template/Lab note.md",
+    "Template/Daily note.md",
+    "zettlekasten/Setting up Organization Units (OU).md",
+    "zettlekasten/Sharing configuration for profiles.md",
+    "zettlekasten/Roaming profiles and Home directory.md",
+    "zettlekasten/Windows OS.md",
+    "inbox/python.md",
+    "output/Python",
+    "Journal/weekly_notes",
+    "pictures/Screenshot 2026-03-04 121406.png",
     "pictures/Screenshot 2026-02-26 124357.png",
     "pictures/Screenshot 2026-02-26 120811 1.png",
     "pictures",
