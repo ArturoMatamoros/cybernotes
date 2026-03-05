@@ -1,6 +1,6 @@
 [[Sistemi operativi]]
 ## Definizione 
-I sistemi di laboratori sono fatti per eseguire [[Algoritmo]] e noi li implementiamo attraverso i programma e un processo è un programma in esecuzione.
+I sistemi di laboratori sono fatti per eseguire [[Algorithm]] e noi li implementiamo attraverso i programma e un processo è un programma in esecuzione.
 
 ricordiamo che il [[Sistema Operativo]] si dedica allo [[Scheduling processi]] dei processi.
 

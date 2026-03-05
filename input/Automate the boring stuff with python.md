@@ -14,3 +14,10 @@ This is a book about all the basics of [[python]] for automation. It is a fast r
 		- these are parameters that need to be defined while called to be considered
 		- `print("dog", "cat", "umbrella" sep=',')`
 - Chapter 5
+- Chapter 6 lists
+	- simple how do lists work
+		- indexes and slices
+		- in and not in 
+		- using random in a list 
+	- using for to insert into a list
+	- using the main methods: append, insert, sort, remove

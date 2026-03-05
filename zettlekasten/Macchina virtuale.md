@@ -8,7 +8,7 @@ La macchina virtuale è un ambiente virtuale che emula un sistema ad elaboratore
 Il 99 delle macchine che fanno andare avanti il mondo sono macchine virtuali 
 
 Link: 
-- [[Benefici macchina virtuale]]
+- [[Benefits of a virtual machine]]
 - [[VMWare]]
 - [[Installazione Kali Linux]]
 ### Correlati 

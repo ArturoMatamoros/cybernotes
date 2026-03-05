@@ -1,6 +1,6 @@
 professore #Arciero  [[ITS Cybersecurity specialist]]
 
 - Logica e algoritmo 
-	- [[Algoritmo]] 
+	- [[Algorithm]] 
 	- [[Python]] 
 - 

@@ -28,5 +28,3 @@ link:
 - [[Utenti e gruppi in linux]]
 	- Comandi utenti
 	- Comandi permessi Linux
-- [[Dig]]
-- 

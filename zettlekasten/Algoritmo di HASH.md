@@ -5,4 +5,4 @@ Un _algoritmo di hash_ è una funzione che prende un input di lunghezza arbitrar
 Questo ci permette di avere così un HASH firmato. Quando noi facciamo il tutto, utilizzando la nostra chiave pubblica per provare la nostra identità. 
 
 Link:
-- [[Algoritmi di crittografia]] 
+- [[Cryptographic algorithms]] 

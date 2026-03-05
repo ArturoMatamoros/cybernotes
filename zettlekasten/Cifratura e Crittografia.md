@@ -4,4 +4,4 @@ La **cifratura** è l’atto pratico di trasformare un messaggio leggibile (test
 
 
 Link: 
-[[IT security]], [[Furto di identità]], [[Man in the middle]], [[Algoritmo di HASH]], [[Algoritmi di crittografia]]
+[[IT security]], [[Furto di identità]], [[Man in the middle]], [[Algoritmo di HASH]], [[Cryptographic algorithms]]
