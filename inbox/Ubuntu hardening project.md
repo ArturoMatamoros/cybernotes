@@ -1,0 +1,11 @@
+[[Linux]], [[Hardening]]
+- phase 1 Installing the server and doing the basic setup. 
+	- For this project I already have an ubuntu server that I will use.
+	- It's required for it to be in bridge 
+	- The basic setup consists also in removing unnecessary services and 
+- phase 2 kernel flags
+	- To harden the server further I wrote these parameters /etc/sysctl.conf
+	- ![[Pasted image 20260410105113.png]]
+	- all of these stop potential attacks.
+- Phase 3 Access and users security
+	- 

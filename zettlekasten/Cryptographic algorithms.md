@@ -1,4 +1,4 @@
-Gli algoritmi di [[Crittografia]] noi andiamo ad usare due tipi di criptazioni. 
+Gli algoritmi di [[Cryptography]] noi andiamo ad usare due tipi di criptazioni. 
 - Simmetrici 
 	- Per capirli immaginiamo di avere una sorgente e una destinazione
 	- Abbiamo una chiave che entrambi contengono

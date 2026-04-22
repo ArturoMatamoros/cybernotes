@@ -9,3 +9,16 @@ Abbiamo alcune cose a cui pensare:
 	- non vede processi, rete, I/O, User/Group
 Tutto questo è quello che accade, ma attualmente abbiamo quello che è il Container engine. [[Docker]] è lo standard attualmente. Ci permette di creare un container partendo da un'immagine. Un container possiamo anche definirlo come un'immagine in esecuzione. Possiamo anche scaricare immagini su Docker Hub. Ogni container ha un indirizzo ip in una rete virtuale.
 
+in this course we will see :
+- Container basics 
+	- images and containers 
+	- data and volumes
+	- containers and networking 
+- "real life"
+	- multi-container projects
+	- using Docker-compose
+	- utility containers 
+	- deploying docker containers
+- Kubernetes
+
+

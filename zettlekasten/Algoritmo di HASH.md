@@ -1,4 +1,4 @@
-[[Crittografia]] 
+[[Cryptography]] 
 
 Un _algoritmo di hash_ è una funzione che prende un input di lunghezza arbitraria e restituisce un output di lunghezza fissa, detto **digest** o **hash**, progettato per essere unico per ogni input.
 

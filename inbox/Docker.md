@@ -1,3 +1,4 @@
+[[Container]]
 - This course is about Docker but not about Kubernetes.  
 - Docker is a container technology; a tool for creating and managing containers.
 - Advantages of containers ? 
@@ -13,25 +14,4 @@
 	- docker Desktop 
 	- docker hub
 	- docker compose
-- how to create a simple container? 
-	![[Screenshot 2026-03-04 121406.png]]
-	-  This is what we have inside Docker file
-		- docker build .
-	- we first look for the images 
-		- docker images -a 
-	- start the container 
-		- docker run -p 3000:3000 (and the image id) 
-	- let's check if it works and it's name / id 
-		- docker ps -a 
-	- to stop a docker 
-		- docker stop name/id 
-- Container basics 
-	- images and containers 
-	- data and volumes
-	- containers and networking 
-- "real life"
-	- multi-container projects
-	- using Docker-compose
-	- utility containers 
-	- deploying docker containers
-- Kubernetes
+- [[how to create a simple container]]? 

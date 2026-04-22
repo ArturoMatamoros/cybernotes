@@ -1,0 +1,13 @@
+- ![[Screenshot 2026-03-04 121406.png]]
+	-  This is what we have inside Docker file
+		- docker build .
+	- we first look for the images 
+		- docker images -a 
+	- start the container 
+		- docker run -p 3000:3000 (and the image id) 
+	- let's check if it works and it's name / id 
+		- docker ps -a 
+	- to stop a docker 
+		- docker stop name/id 
+	- to rm a container 
+		- docker rm name/id
